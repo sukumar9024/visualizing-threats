@@ -1,0 +1,115 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212; /* Dark Background */
+    color: #ddd; /* Light Gray Text */
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: #fff;
+}
+
+span {
+    color: #E50914; /* Netflix Red */
+}
+
+/* Hero Section */
+.hero {
+    background: url("../images/hero-dark.jpg") center/cover no-repeat;
+    padding: 100px 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.hero-text {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.button-group {
+    margin-top: 20px;
+}
+
+/* Buttons */
+.cta-button {
+    display: inline-block;
+    text-decoration: none;
+    background: #E50914; /* Red */
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 5px;
+    margin: 5px;
+    font-weight: bold;
+    transition: 0.3s ease-in-out;
+}
+
+.cta-button:hover {
+    background: #ff3333;
+}
+
+.cta-button.register {
+    background: #b30000; /* Darker Red */
+}
+
+/* About Section */
+.about {
+    background: #1A1A1A; /* Dark Gray */
+    padding: 50px 20px;
+}
+
+.about .content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.about .text {
+    max-width: 500px;
+}
+
+.about .image img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+/* Features Section */
+.features {
+    background: #1E1E1E;
+    padding: 50px 20px;
+}
+
+.features .content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.feature {
+    background: #282828;
+    padding: 20px;
+    border-radius: 8px;
+    width: 250px;
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+}
+
+.feature:hover {
+    transform: scale(1.05);
+}
+
+.feature h3 {
+    color: #E50914; /* Red Highlights */
+}
+
+/* Footer */
+footer {
+    background: #000;
+    color: #bbb;
+    padding: 10px;
+    margin-top: 20px;
+}
