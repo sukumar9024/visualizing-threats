@@ -86,8 +86,8 @@ MIT License © 2024 CyberLens
 
 ## 📩 Contact & Support
 For any queries or issues, open a GitHub Issue or contact me at:
-📧 your-email@example.com
-🔗 [GitHub Profile](https://github.com/your-github-profile)
+📧 sukumarchintham866@gmail.com
+🔗 [GitHub Profile](https://github.com/sukumar9024)
 
 ---
 
