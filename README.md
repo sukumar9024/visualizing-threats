@@ -43,11 +43,9 @@ http://localhost/CyberLens
 ## 📁 Folder Structure
 ```bash
 CyberLens/
-│── database/              # SQL scripts for database setup
 │── uploads/               # Log file uploads
 │── reports/               # JSON reports generated
 │── css/                   # Stylesheets
-│── js/                    # JavaScript files
 │── python-scripts/        # Python threat analysis scripts
 │── config.php             # Database configuration
 │── dashboard.php          # Main dashboard
